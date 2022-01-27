@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "did"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+sympy = "^1.9"
+tweepy = "^4.5.0"
+bs4 = "^0.0.1"
+Flask = "^2.0.2"
+selenium = "^4.1.0"
+"dislash.py" = "^1.4.9"
+discord-buttons-plugin = "^0.1.2"
+Jinja2 = "^3.0.3"
+h11 = "^0.13.0"
+pytz = "^2021.3"
+"discord.py" = "^1.7.3"
+buttons = "^0.1.9"
+Werkzeug = "^2.0.2"
+pyOpenSSL = "^21.0.0"
+outcome = "^1.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
